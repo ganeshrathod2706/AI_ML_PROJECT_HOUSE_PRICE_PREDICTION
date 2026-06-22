@@ -65,10 +65,20 @@ The dataset contains information about houses and their corresponding prices.
 ### 3. Exploratory Data Analysis (EDA)
 
 - Distribution plots (Histograms)
+<img width="986" height="739" alt="image" src="https://github.com/user-attachments/assets/9154b134-a879-4999-96ac-c1b1f1af5587" />
+
 - Boxplots for outlier detection
+<img width="826" height="588" alt="image" src="https://github.com/user-attachments/assets/3bd8c6ef-3d94-4d6f-ae2e-771d2feb35cd" />
+
 - Correlation Heatmap
+<img width="757" height="528" alt="image" src="https://github.com/user-attachments/assets/65e91b75-1dec-45e1-bec7-1d9bb7e3db1c" />
+
 - Area vs Price Scatter Plot
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/3ad6b865-4bb1-4289-bb9a-daf07ea69407" />
+
 - Bedrooms vs Price Analysis
+<img width="691" height="470" alt="image" src="https://github.com/user-attachments/assets/8066ebeb-325f-402f-b6be-50aaa982cb42" />
+
 
 ### 4. Feature Engineering
 
